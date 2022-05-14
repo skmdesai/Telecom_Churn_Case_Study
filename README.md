@@ -34,10 +34,10 @@ Recall Score : 0.30962643678160917
 Roc AUC Score : 0.6470007183908046
 
 - RFE(RandomForrest) + RandomForrest :
-Accuracy Score : 0.9429285714285714
-Precision Score : 0.7853705486044273
-Recall Score : 0.5862068965517241
-Roc AUC Score : 0.7842598569053036
+Accuracy Score : 0.9428571428571428
+Precision Score : 0.7862669245647969
+Recall Score : 0.584051724137931
+Roc AUC Score : 0.7832615854192193
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
