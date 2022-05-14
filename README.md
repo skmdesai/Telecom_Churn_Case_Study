@@ -27,13 +27,13 @@ Precision Score : 0.6550598476605005
 Recall Score : 0.4324712643678161
 Roc AUC Score : 0.7036642489351771
 
-- PCA + RandomForrest
+- PCA + RandomForrest :
 Accuracy Score : 0.9172857142857143
 Precision Score : 0.6863057324840764
 Recall Score : 0.30962643678160917
 Roc AUC Score : 0.6470007183908046
 
-- RFE(RandomForrest) + RandomForrest
+- RFE(RandomForrest) + RandomForrest :
 Accuracy Score : 0.9429285714285714
 Precision Score : 0.7853705486044273
 Recall Score : 0.5862068965517241
